@@ -1,0 +1,16 @@
+# virtual environments
+lab_01/
+venv/
+.venv/
+env/
+
+# python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# test artifacts
+pytest-report.xml
+
+# os
+.DS_Store
